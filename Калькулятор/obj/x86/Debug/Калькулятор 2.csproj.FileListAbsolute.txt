@@ -1,0 +1,46 @@
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор_2.Form1.resources
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор_2.Properties.Resources.resources
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор 2.csproj.GenerateResource.Cache
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор 2.csprojResolveAssemblyReference.cache
+D:\4 Курс\C#\Программы\Калькулятор 2\bin\Debug\Калькулятор 2.exe
+D:\4 Курс\C#\Программы\Калькулятор 2\bin\Debug\Калькулятор 2.pdb
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор 2.exe
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор 2.pdb
+D:\4 Курс\C#\Программы\Калькулятор 2\obj\x86\Debug\Калькулятор_2.AboutBox1.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор 2.exe
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор 2.csprojResolveAssemblyReference.cache
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор_2.AboutBox1.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор_2.Form1.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор_2.Properties.Resources.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор 2.csproj.GenerateResource.Cache
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\bin\Debug\Калькулятор 2.exe
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\bin\Debug\Калькулятор 2.pdb
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2\obj\x86\Debug\Калькулятор 2.pdb
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.exe
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.csprojResolveAssemblyReference.cache
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор_2.AboutBox1.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор_2.Form1.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор_2.Properties.Resources.resources
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.csproj.GenerateResource.Cache
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\bin\Debug\Калькулятор 2.exe
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\bin\Debug\Калькулятор 2.pdb
+D:\4 Курс\C#\Программы С# Охитин А\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.pdb
+D:\4 Курс\C#\Программы С# Охитин Артём\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.exe
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.exe
+D:\Калькулятор 2 — копия\bin\Debug\Калькулятор 2.exe
+D:\Калькулятор 2 — копия\bin\Debug\Калькулятор 2.pdb
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.csprojResolveAssemblyReference.cache
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор_2.AboutBox1.resources
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор_2.Form1.resources
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор_2.Properties.Resources.resources
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.csproj.GenerateResource.Cache
+D:\Калькулятор 2 — копия\obj\x86\Debug\Калькулятор 2.pdb
+D:\Калькулятор\obj\x86\Debug\Калькулятор 2.exe
+D:\Калькулятор\obj\x86\Debug\Калькулятор 2.pdb
+D:\Калькулятор\bin\Debug\Калькулятор 2.exe
+D:\Калькулятор\bin\Debug\Калькулятор 2.pdb
+D:\Калькулятор\obj\x86\Debug\Калькулятор 2.csprojResolveAssemblyReference.cache
+D:\Калькулятор\obj\x86\Debug\Калькулятор_2.AboutBox1.resources
+D:\Калькулятор\obj\x86\Debug\Калькулятор_2.Form1.resources
+D:\Калькулятор\obj\x86\Debug\Калькулятор_2.Properties.Resources.resources
+D:\Калькулятор\obj\x86\Debug\Калькулятор 2.csproj.GenerateResource.Cache
