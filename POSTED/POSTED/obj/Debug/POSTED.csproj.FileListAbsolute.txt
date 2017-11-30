@@ -1,0 +1,10 @@
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\bin\Debug\POSTED.exe.config
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\obj\Debug\POSTED.csprojResolveAssemblyReference.cache
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\obj\Debug\POSTED.Form1.resources
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\obj\Debug\POSTED.Properties.Resources.resources
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\obj\Debug\POSTED.csproj.GenerateResource.Cache
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\bin\Debug\POSTED.exe
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\bin\Debug\POSTED.pdb
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\bin\Debug\xNet.dll
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\obj\Debug\POSTED.exe
+c:\users\хлюстов\documents\visual studio 2012\Projects\POSTED\POSTED\obj\Debug\POSTED.pdb
